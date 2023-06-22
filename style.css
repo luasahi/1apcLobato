@@ -3,3 +3,6 @@ h1 {
     font-size: 25px;
     outline-color: blueviolet(98, 190, 17);
 }
+body {
+background-color: black;
+}
